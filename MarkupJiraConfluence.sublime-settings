@@ -1,0 +1,19 @@
+/*
+    Jira Confluence Markup default settings
+*/
+{
+    /*
+        Sets the default Jira Confluence xmlrpc url
+    */
+    "confluence_url": "https://quickpivot.atlassian.com/wiki/rpc/xmlrpc",
+
+    /*
+        Sets the Confluence username
+    */
+    "username": "patrick.greenwell@quickpivot.com",
+
+    /*
+        Sets the Confluence password
+    */
+    "password": "Abydos87"
+}

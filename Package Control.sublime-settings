@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Compare Side-By-Side",
+		"Emmet",
+		"Git",
+		"Jekyll",
+		"Jira",
+		"Markdown Preview",
+		"Markup Jira Confluence",
+		"Materialized CSS Snippets",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"RAML Syntax Highlighter",
+		"SublimeREPL",
+		"VBDotNet",
+		"View In Browser"
+	]
+}
