@@ -2,13 +2,16 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Markup Jira Confluence"
 	],
 	"installed_packages":
 	[
 		"BracketHighlighter",
 		"Compare Side-By-Side",
+		"EasyClangComplete",
 		"Emmet",
 		"Git",
+		"Indent XML",
 		"Jekyll",
 		"Jira",
 		"Markdown Preview",
@@ -19,6 +22,8 @@
 		"Pretty JSON",
 		"RAML Syntax Highlighter",
 		"SublimeREPL",
+		"Terminal",
+		"URLEncode",
 		"VBDotNet",
 		"View In Browser"
 	]
